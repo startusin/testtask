@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+  body h1 {
+    margin: 40px 0; }
+  body h2 {
+    margin: 40px 0; }
+  body .result {
+    display: block;
+    position: relative;
+    color: #FF0000;
+    font-size: 12px;
+    padding: 20px;
+    margin: auto;
+    max-width: 400px;
+    border: 1px #000 solid; }
+  body #cam-photo {
+    display: block;
+    position: relative;
+    margin: auto auto 20px; }
+
+/*# sourceMappingURL=index.css.map */

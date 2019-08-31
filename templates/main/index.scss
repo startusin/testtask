@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+  h1 {
+    margin: 40px 0;
+  }
+
+  h2 {
+    margin: 40px 0;
+  }
+
+  .result {
+    display: block;
+    position: relative;
+    color: #FF0000;
+    font-size: 12px;
+    padding: 20px;
+    margin: auto;
+    max-width: 400px;
+    border: 1px #000 solid;
+  }
+
+  #cam-photo {
+    display: block;
+    position: relative;
+    margin: auto auto 20px;
+  }
+}
