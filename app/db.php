@@ -5,7 +5,7 @@ class DB {
     private static $db = false;
 
     public function init() {
-        self::$db = new \PDO('mysql:host=localhost;dbname=testphp', 'root', 'startusin1');
+        self::$db = new \PDO('mysql:host=localhost;dbname=testphp', 'user', '');
     }
 
     /**
